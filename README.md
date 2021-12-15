@@ -1,0 +1,2 @@
+# minipacman
+Pacman school project.
